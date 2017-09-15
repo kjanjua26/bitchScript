@@ -1,0 +1,5 @@
+showbitch "This is your first script, bitch"
+ifbitch "Hello" 
+elsebitch "Hello Again"
+showbitch "Hello world"
+showbitch "This is your sec script, bitch"
